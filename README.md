@@ -42,8 +42,8 @@ The cleaned files were imported into **Microsoft SQL Server (SSMS)**.
 - Doctors
 - Appointments
 - Treatments
-- Financials
 - Billing
+- Insurance
 
 ### 🔎 SQL Work Included:
 
