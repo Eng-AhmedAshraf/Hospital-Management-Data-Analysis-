@@ -68,50 +68,26 @@ A star-schema-style data model was built for optimized analytics.
 ---
 
 ### 🟢 1. Overview Dashboard
-- Total Patients
-- Total Doctors
-- Total Appointments
-- Total Revenue
-- Admission Trends Over Time
-- High-level KPIs for management
+<img src="https://github.com/Eng-AhmedAshraf/Hospital-Management-Data-Analysis-/blob/main/Project's%20Steps/3%20-%20Power%20BI%20Step/Dashboard%20Photos/1-%20Overview.png" alt="Overview">
 
 ---
 
 ### 🔵 2. Patient Dashboard
-- Patient Demographics
-- Admission frequency
-- Visit patterns
-- Age & gender distribution
-- Disease prevalence trends
-
+<img src="[https://github.com/Eng-AhmedAshraf/Hospital-Management-Data-Analysis-/blob/main/Project's%20Steps/3%20-%20Power%20BI%20Step/Dashboard%20Photos/1-%20Overview.png](https://github.com/Eng-AhmedAshraf/Hospital-Management-Data-Analysis-/blob/main/Project's%20Steps/3%20-%20Power%20BI%20Step/Dashboard%20Photos/2-%20Patients.png)" alt="Patient">
 ---
 
 ### 🟣 3. Doctor Dashboard
-- Doctor workload distribution
-- Appointments per doctor
-- Specialty performance
-- Revenue contribution by doctor
-- Efficiency indicators
+<img src="[https://github.com/Eng-AhmedAshraf/Hospital-Management-Data-Analysis-/blob/main/Project's%20Steps/3%20-%20Power%20BI%20Step/Dashboard%20Photos/1-%20Overview.png](https://github.com/Eng-AhmedAshraf/Hospital-Management-Data-Analysis-/blob/main/Project's%20Steps/3%20-%20Power%20BI%20Step/Dashboard%20Photos/3-%20Doctors.png)" alt="Doctor">
 
 ---
 
 ### 🟡 4. Treatment Dashboard
-- Most common treatments
-- Treatment cost analysis
-- Frequency by department
-- Treatment outcome distribution
-- Monthly procedure trends
+<img src="[https://github.com/Eng-AhmedAshraf/Hospital-Management-Data-Analysis-/blob/main/Project's%20Steps/3%20-%20Power%20BI%20Step/Dashboard%20Photos/1-%20Overview.png](https://github.com/Eng-AhmedAshraf/Hospital-Management-Data-Analysis-/blob/main/Project's%20Steps/3%20-%20Power%20BI%20Step/Dashboard%20Photos/4-%20Treatment.png)" alt="Treatment">
 
 ---
 
 ### 🔴 5. Financial & Billing Dashboard
-- Total Revenue
-- Paid vs Unpaid Amount
-- Billing status distribution
-- Revenue by treatment type
-- Outstanding balances
-- Payment trends over time
-
+<img src="[https://github.com/Eng-AhmedAshraf/Hospital-Management-Data-Analysis-/blob/main/Project's%20Steps/3%20-%20Power%20BI%20Step/Dashboard%20Photos/1-%20Overview.png](https://github.com/Eng-AhmedAshraf/Hospital-Management-Data-Analysis-/blob/main/Project's%20Steps/3%20-%20Power%20BI%20Step/Dashboard%20Photos/5-%20Financial%20%26%20Billing.png)" alt="Financial & Billing">
 ---
 
 # 🛠 Tools & Technologies Used
