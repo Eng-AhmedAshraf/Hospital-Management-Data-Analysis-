@@ -73,21 +73,21 @@ A star-schema-style data model was built for optimized analytics.
 ---
 
 ### 🔵 2. Patient Dashboard
-<img src="[https://github.com/Eng-AhmedAshraf/Hospital-Management-Data-Analysis-/blob/main/Project's%20Steps/3%20-%20Power%20BI%20Step/Dashboard%20Photos/1-%20Overview.png](https://github.com/Eng-AhmedAshraf/Hospital-Management-Data-Analysis-/blob/main/Project's%20Steps/3%20-%20Power%20BI%20Step/Dashboard%20Photos/2-%20Patients.png)" alt="Patient">
+<img src="https://github.com/Eng-AhmedAshraf/Hospital-Management-Data-Analysis-/blob/main/Project's%20Steps/3%20-%20Power%20BI%20Step/Dashboard%20Photos/2-%20Patients.png" alt="Patient">
 ---
 
 ### 🟣 3. Doctor Dashboard
-<img src="[https://github.com/Eng-AhmedAshraf/Hospital-Management-Data-Analysis-/blob/main/Project's%20Steps/3%20-%20Power%20BI%20Step/Dashboard%20Photos/1-%20Overview.png](https://github.com/Eng-AhmedAshraf/Hospital-Management-Data-Analysis-/blob/main/Project's%20Steps/3%20-%20Power%20BI%20Step/Dashboard%20Photos/3-%20Doctors.png)" alt="Doctor">
+<img src="https://github.com/Eng-AhmedAshraf/Hospital-Management-Data-Analysis-/blob/main/Project's%20Steps/3%20-%20Power%20BI%20Step/Dashboard%20Photos/3-%20Doctors.png" alt="Doctor">
 
 ---
 
 ### 🟡 4. Treatment Dashboard
-<img src="[https://github.com/Eng-AhmedAshraf/Hospital-Management-Data-Analysis-/blob/main/Project's%20Steps/3%20-%20Power%20BI%20Step/Dashboard%20Photos/1-%20Overview.png](https://github.com/Eng-AhmedAshraf/Hospital-Management-Data-Analysis-/blob/main/Project's%20Steps/3%20-%20Power%20BI%20Step/Dashboard%20Photos/4-%20Treatment.png)" alt="Treatment">
+<img src="https://github.com/Eng-AhmedAshraf/Hospital-Management-Data-Analysis-/blob/main/Project's%20Steps/3%20-%20Power%20BI%20Step/Dashboard%20Photos/4-%20Treatment.png" alt="Treatment">
 
 ---
 
 ### 🔴 5. Financial & Billing Dashboard
-<img src="[https://github.com/Eng-AhmedAshraf/Hospital-Management-Data-Analysis-/blob/main/Project's%20Steps/3%20-%20Power%20BI%20Step/Dashboard%20Photos/1-%20Overview.png](https://github.com/Eng-AhmedAshraf/Hospital-Management-Data-Analysis-/blob/main/Project's%20Steps/3%20-%20Power%20BI%20Step/Dashboard%20Photos/5-%20Financial%20%26%20Billing.png)" alt="Financial & Billing">
+<img src="https://github.com/Eng-AhmedAshraf/Hospital-Management-Data-Analysis-/blob/main/Project's%20Steps/3%20-%20Power%20BI%20Step/Dashboard%20Photos/5-%20Financial%20%26%20Billing.png" alt="Financial & Billing">
 ---
 
 # 🛠 Tools & Technologies Used
@@ -101,7 +101,7 @@ A star-schema-style data model was built for optimized analytics.
 
 ---
 
-# 📈 Key Achievements
+#  Key Achievements
 
 ✔ Built a complete end-to-end analytics pipeline  
 ✔ Designed a relational healthcare database model  
@@ -112,7 +112,7 @@ A star-schema-style data model was built for optimized analytics.
 
 ---
 
-# 🧠 Business Value
+#  Business Value
 
 This project simulates a real hospital analytics environment and provides insights that can support:
 
